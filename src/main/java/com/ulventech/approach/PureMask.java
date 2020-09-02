@@ -8,6 +8,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 /**
+ * ( Not scalable for large X value )- Computationally Optimum solution avoiding "Base 10 logarithm" and "Substring" computations
+ *
  * @author Tharinda Wickramaarachchi
  * @since 9/2/2020 7:05 PM
  */
