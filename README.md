@@ -20,4 +20,5 @@ If not we will have to use unique key generation method with computing uniquenes
 
 
 ### Unit Test Coverage
+Class MaskSubstringTest : Only for the scallable and Optimum solution under given conditions
 ![image](https://user-images.githubusercontent.com/7715914/92023009-c202a380-ed79-11ea-94e9-a7dc81584d83.png)
